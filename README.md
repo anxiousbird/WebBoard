@@ -1,2 +1,11 @@
 # WebBoard
 Overlay a transparent canvas on any webpage. Draw freehand, add text, customize colors &amp; sizes — all settings persist across sessions.
+
+## Privacy
+WebBoard Privacy Policy
+
+WebBoard does not collect, store, or transmit any personal data. All user preferences (brush color, thickness, font, text size, toolbar settings) are stored locally in your browser's Chrome Storage Sync and are never sent to any server.
+
+The extension does not use cookies, analytics, or third-party services.
+
+Last updated: June 2026
